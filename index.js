@@ -5,8 +5,8 @@ const { Vec3 } = require('vec3')
 
 // CẤU HÌNH LIÊN KẾT MẠNG TỐI ƯU CHO SERVER CRACK ATERNOS
 const config = {
-  host: 'MoonSMP151.aternos.me',
-    port: 61430,
+  host: 'Sun12344.aternos.me',
+    port: 44895,
       username: 'Moonthichchoigay',
         version: '1.20.1',
           checkTimeoutInterval: 120 * 1000,
